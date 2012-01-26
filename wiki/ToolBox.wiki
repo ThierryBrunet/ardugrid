@@ -145,6 +145,13 @@ http://www.analog.com/static/imported-files/application_notes/AN-1076.pdf
 
 http://www.analog.com/static/imported-files/application_notes/AN-1127.pdf
 
+
+== Cirrus Logic CS5490 Energy Measurement IC ==
+
+http://www.cirrus.com/en/products/cs5490.html
+
+http://www.cirrus.com/en/images/product_chips/P1242.jpg
+
 == Selection of ENERGY MEASUREMENT from Analog Devices ==
 
 http://www.analog.com/en/analog-to-digital-converters/energy-measurement/products/index.html
